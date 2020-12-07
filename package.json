@@ -1,0 +1,19 @@
+{
+  "name": "ectrondemodevice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ectron_demo_device.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.17.3",
+    "azure-iot-device-mqtt": "^1.15.3",
+    "azure-iot-provisioning-device": "^1.8.7",
+    "azure-iot-provisioning-device-http": "^1.8.7",
+    "azure-iot-provisioning-device-mqtt": "^1.7.7",
+    "azure-iot-security-symmetric-key": "^1.7.7"
+  }
+}
